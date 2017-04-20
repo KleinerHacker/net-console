@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("net.console")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Console Extension for .NET")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Bundesdruckerei GmbH")]
+[assembly: AssemblyCompany("PC-Soft (Pfeiffer C Soft)")]
 [assembly: AssemblyProduct("net.console")]
-[assembly: AssemblyCopyright("Copyright © Bundesdruckerei GmbH 2017")]
+[assembly: AssemblyCopyright("Copyright © PC-Soft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
